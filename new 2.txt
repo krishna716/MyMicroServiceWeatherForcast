@@ -1,0 +1,1 @@
+az acr create -n mymicroserviceregistrybkr -g MyMicroServices --sku basic
